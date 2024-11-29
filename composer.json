@@ -1,0 +1,17 @@
+{
+    "name": "miusarname/first_library_to_convert_to_pdf",
+    "description": "This is a sample of how to convert different file formats to PDF.",
+    "type": "library-project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Miusarname\\FirstLibraryToConvertToPdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miusarname"
+        }
+    ],
+    "require": {}
+}
